@@ -1,4 +1,4 @@
 # capstone-demo
 Our first git repository]
 
-Author - Arittra
+Author - Arittra Sarker (Daffodil)
