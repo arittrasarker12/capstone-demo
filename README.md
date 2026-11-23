@@ -1,2 +1,4 @@
 # capstone-demo
-Our first git repository
+Our first git repository]
+
+Author - Arittra
